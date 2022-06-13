@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "magic"
+name = "card_parser"
 version = "0.1.0"
 description = ""
 authors = ["Yana Postnova"]
